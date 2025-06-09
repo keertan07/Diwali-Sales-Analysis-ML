@@ -2,42 +2,40 @@
 Exploratory Data Analysis (EDA) of Diwali Sales dataset using Python
 
 
-This project performs **Exploratory Data Analysis (EDA)** on a Diwali Sales dataset to uncover insights into customer behavior, top-selling states, and spending patterns across gender, age, and occupation.
+# Diwali Sales Analysis (EDA Project)
 
-##  Objectives
+Hi there!   
+This is a data analysis project I worked on to explore sales patterns during the Diwali festival. The goal was to understand customer behavior, identify high-performing segments, and extract useful business insights — all using Python and basic data analysis techniques.
 
-- Clean and preprocess the dataset
-- Perform EDA using Python libraries
-- Visualize trends using graphs and charts
-- Extract key business insights
 
-##  Dataset
 
-The dataset contains sales data from a Diwali campaign, including:
-- Gender
-- Age Group
-- Marital Status
-- Occupation
-- Product Categories
-- Amount Spent
-- State
+##  What this project is about
 
-File used: `diwali_sales_dataset.csv`
+I used a dataset containing customer purchase data from a Diwali campaign. It includes information like gender, age, occupation, state, amount spent, and more. The main focus of the project was **Exploratory Data Analysis (EDA)** — no machine learning models here, just understanding the data through visualization and statistics.
 
-##  Tools & Technologies Used
+
+
+##  Tools & Libraries
 
 - **Python**
-- **Pandas** – Data manipulation
-- **NumPy** – Numerical operations
-- **Matplotlib & Seaborn** – Data visualization
-- **Jupyter Notebook**
+- **Pandas** – for data wrangling  
+- **NumPy** – for numerical operations  
+- **Matplotlib & Seaborn** – for data visualization  
+- **Jupyter Notebook** – to run and document everything
 
-##  Key Insights
 
-- Females in the 26–35 age group are the highest spenders
-- Uttar Pradesh, Maharashtra, and Karnataka had the most sales
-- Married people tend to spend more than singles
-- IT professionals and healthcare workers were top spenders
+
+##  Key Insights Discovered
+
+- **Women aged 26–35** were the top spenders during Diwali
+- **Uttar Pradesh, Maharashtra, and Karnataka** were the highest-performing states
+- **Married individuals** tended to spend more than singles
+- Occupations like **IT and healthcare** had strong spending patterns
+
+*(I’ve added some graphs in the notebook to support these points.)*
+
+
+
 
 
 
