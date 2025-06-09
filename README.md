@@ -11,7 +11,7 @@ This project performs **Exploratory Data Analysis (EDA)** on a Diwali Sales data
 - Visualize trends using graphs and charts
 - Extract key business insights
 
-## 🗂 Dataset
+##  Dataset
 
 The dataset contains sales data from a Diwali campaign, including:
 - Gender
